@@ -29,8 +29,8 @@ To get started, ensure you have the following tools installed on the machine:
 # Quickstart
 
 ```
-git clone https://github.com/MaherBough
-cd hardhat-simple-storage-fcc
+git clone https://github.com/Maherboug/DiD-celo-Project.git
+cd DiD-celo-Project
 yarn
 yarn hardhat
 ```
